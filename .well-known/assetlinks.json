@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.josephgitore074_netizen.twa",
+      "sha256_cert_fingerprints": [
+        "66:C5:44:9F:06:D1:EF:1D:9B:38:B6:FA:AD:5D:2D:B5:06:A3:B2:E5:59:D8:FE:EC:AE:4C:09:FD:E3:4B:22:4F"
+      ]
+    }
+  }
+]
